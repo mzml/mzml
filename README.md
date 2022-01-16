@@ -1,7 +1,7 @@
 ### Hi
 I am Muzamil.
 - 🌱 I'm commitetted to lifelong learning about software
-- 🎯 My target for 2021:
+- 🎯 My target for 2022:
   - [ ] launch mzm.io 1.0.0
   - [ ] build UI for Terraxis
   - [ ] create a landing page for rokh.io
